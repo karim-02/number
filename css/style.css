@@ -1,6 +1,7 @@
 *{margin: 0%;padding: 0%;}
 .par{width: 80%;height: 100vh;margin-left: 10%;
     overflow: auto;}
+.dv{border-radius: 5px;}
 .dv1, .dv4, .dv7{width: 250px;height: 50px;background-color: rgb(41, 201, 41);margin: auto;}
 .dv1{
     margin-top: 50px;
