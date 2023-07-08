@@ -1,0 +1,178 @@
+*{margin: 0%;padding: 0%;}
+.par{width: 80%;height: 100vh;margin-left: 10%;
+    overflow: auto;}
+.dv1, .dv4, .dv7{width: 250px;height: 50px;background-color: rgb(41, 201, 41);margin: auto;}
+.dv1{
+    margin-top: 50px;
+animation-name: dv1;
+   animation-duration: 10s;
+   animation-fill-mode: both;
+}
+.dv2{
+    animation-name: dv2;
+    animation-duration: 10s;
+    animation-fill-mode: both;
+
+}
+.dv3{
+    animation-name: dv3;
+    animation-duration: 10s;
+    animation-fill-mode: both;
+
+}
+.dv4{
+    margin-top: 10px;
+animation-name: dv4;
+animation-duration: 10s;
+animation-fill-mode: both;
+
+}
+.dv5{
+    animation-name: dv5;
+    animation-duration: 10s;
+    animation-fill-mode: both;
+
+}
+.dv6{
+    animation-name: dv6;
+    animation-duration: 10s;
+    animation-fill-mode: both;
+
+}
+.dv7{
+    margin-top: 10px;
+animation-name: dv7;
+animation-duration: 10s;
+animation-fill-mode: both;
+
+}
+
+.dv3, .dv6{
+    width: 50px;
+height: 200px;
+background-color: rgb(41, 201, 41);
+margin-left: 350px;
+margin-top: -200px;}
+.dv2, .dv5{
+width: 50px;
+height: 200px;
+background-color: rgb(41, 201, 41);
+margin-left: 690px;}
+@keyframes dv1{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: visible;opacity: 1;}
+    20% {visibility: hidden;opacity: 0;}
+    30% {visibility: visible;opacity: 1;}
+    40% {visibility: visible;opacity: 1;}
+    50% {visibility: hidden;opacity: 0;}
+    60% {visibility: visible;opacity: 1;}
+    70% {visibility: visible;opacity: 1;}
+    80% {visibility: visible;opacity: 1;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: visible;opacity: 1;}
+}
+@keyframes dv2{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: visible;opacity: 1;}
+    20% {visibility: hidden;opacity: 0;}
+    30% {visibility: visible;opacity: 1;}
+    40% {visibility: visible;opacity: 1;}
+    50% {visibility: visible;opacity: 1;}
+    60% {visibility: hidden;opacity: 0;}
+    70% {visibility: hidden;opacity: 0;}
+    80% {visibility: visible;opacity: 1;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: visible;opacity: 1;}
+}
+@keyframes dv3{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: visible;opacity: 1;}
+    20% {visibility: visible;opacity: 1;}
+    30% {visibility: hidden;opacity: 0;}
+    40% {visibility: hidden;opacity: 0;}
+    50% {visibility: visible;opacity: 1;}
+    60% {visibility: visible;opacity: 1;}
+    70% {visibility: visible;opacity: 1;}
+    80% {visibility: hidden;opacity: 0;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: visible;opacity: 1;}
+}
+@keyframes dv4{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: hidden;opacity: 0;}
+    20% {visibility: hidden;opacity: 0;}
+    30% {visibility: visible;opacity: 1;}
+    40% {visibility: visible;opacity: 1;}
+    50% {visibility: visible;opacity: 1;}
+    60% {visibility: visible;opacity: 1;}
+    70% {visibility: visible;opacity: 1;}
+    80% {visibility: hidden;opacity: 0;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: visible;opacity: 1;}
+}
+@keyframes dv5{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: visible;opacity: 1;}
+    20% {visibility: hidden;opacity: 0;}
+    30% {visibility: hidden;opacity: 0;}
+    40% {visibility: visible;opacity: 1;}
+    50% {visibility: visible;opacity: 1;}
+    60% {visibility: visible;opacity: 1;}
+    70% {visibility: visible;opacity: 1;}
+    80% {visibility: visible;opacity: 1;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: visible;opacity: 1;}
+}
+@keyframes dv6{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: visible;opacity: 1;}
+    20% {visibility: visible;opacity: 1;}
+    30% {visibility: visible;opacity: 1;}
+    40% {visibility: hidden;opacity: 0;}
+    50% {visibility: hidden;opacity: 0;}
+    60% {visibility: hidden;opacity: 0;}
+    70% {visibility: visible;opacity: 1;}
+    80% {visibility: hidden;opacity: 0;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: hidden;opacity: 0;}
+}
+@keyframes dv7{
+    0% {visibility: hidden;opacity: 0;}
+    10% {visibility: visible;opacity: 1;}
+    20% {visibility: hidden;opacity: 0;}
+    30% {visibility: visible;opacity: 1;}
+    40% {visibility: visible;opacity: 1;}
+    50% {visibility: hidden;opacity: 0;}
+    60% {visibility: visible;opacity: 1;}
+    70% {visibility: visible;opacity: 1;}
+    80% {visibility: hidden;opacity: 0;}
+    90% {visibility: visible;opacity: 1;}
+    100% {visibility: visible;opacity: 1;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
